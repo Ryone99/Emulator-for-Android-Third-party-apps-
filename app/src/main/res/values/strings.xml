@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Slot Game Emulator Engine</string>
+    <string name="load_slot_apk">Load Slot Game APK</string>
+    <string name="engine_status">Sandbox Engine Status</string>
+</resources>

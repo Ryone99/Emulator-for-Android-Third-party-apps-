@@ -1,0 +1,6 @@
+{
+  "name": "Slot Game Emulator Engine",
+  "description": "High-performance isolated Android sandbox container for third-party slot games with GPU pass-through, low-latency network interception, and anti-detection spoofing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
